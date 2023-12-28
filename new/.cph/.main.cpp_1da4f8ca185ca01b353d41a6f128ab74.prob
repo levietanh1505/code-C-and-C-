@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"e:\\code\\new\\main.cpp","tests":[{"id":1702296403109,"input":"H 1\nO 16\nS 32\nP 31\nFe 56\nAl 27\nMg 24\nNa 23\nZn 65\nCu 64\nCuSO4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\code\\new\\main.cpp","group":"local","local":true}
