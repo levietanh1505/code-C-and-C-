@@ -22,7 +22,6 @@ input
 output
 7
 4
-
 Tóm lại là đưa 1 dãy về 0 chỉ với hai thao tác: chia cả dãy cho 2 hoặc trừ một số bất kì cho 1
 */
 

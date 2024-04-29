@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"e:\\code\\code nhap\\3\\main.cpp","tests":[{"id":1710494783977,"input":"12345678910111213141516171819","output":"1 2 6 3\n5 10 10 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\code\\code nhap\\3\\main.cpp","group":"local","local":true}

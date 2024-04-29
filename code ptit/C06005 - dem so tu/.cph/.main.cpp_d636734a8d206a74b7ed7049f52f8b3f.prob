@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"e:\\code\\code ptit\\C06005 - dem so tu\\main.cpp","tests":[{"id":1712028976615,"input":"a aa      ab  bbb  ab  aaa  abn ccc","output":"aaa 2\nab 3\nbbb 1\nccc 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\code\\code ptit\\C06005 - dem so tu\\main.cpp","group":"local","local":true}

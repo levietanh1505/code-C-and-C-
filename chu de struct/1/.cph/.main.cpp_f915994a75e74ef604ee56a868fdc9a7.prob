@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"e:\\code\\chu de struct\\1\\main.cpp","tests":[{"id":1705875247804,"input":"3\nNguyen Van A\n12/12/1994\n3.5\n7.0\n5.5\nNguyen Van B\n1/9/1994\n7.5\n9.5\n9.5\nNguyen Van C\n6/7/1994\n8.5\n9.5\n8.5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\code\\chu de struct\\1\\main.cpp","group":"local","local":true}

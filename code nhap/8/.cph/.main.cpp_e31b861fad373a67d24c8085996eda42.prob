@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"e:\\code\\code nhap\\8\\main.cpp","tests":[{"id":1713190867663,"input":"1\n2\n2\nBut bi\n10000\n1\nVo\n50000\n2\n2\n4\nBut bi\n15000\n3","output":"2\n2\n1 Vo 50000\n4 But bi 15000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\code\\code nhap\\8\\main.cpp","group":"local","local":true}

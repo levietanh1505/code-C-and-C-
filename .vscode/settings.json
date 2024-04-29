@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "iostream": "cpp",
+        "numeric": "cpp",
+        "ratio": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "forward_list": "cpp",
+        "valarray": "cpp"
+    }
+}

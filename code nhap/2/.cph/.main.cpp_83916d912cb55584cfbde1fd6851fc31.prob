@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"e:\\code\\code nhap\\2\\main.cpp","tests":[{"id":1710282186736,"input":"1\n3*x^8 + 7*x^2 + 4*x^0\n11*x^6 + 9*x^2 + 2*x^1 + 3*x^0","output":"3*x^8 + 11*x^6 + 16*x^2 + 2*x^1 + 7*x^0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\code\\code nhap\\2\\main.cpp","group":"local","local":true}

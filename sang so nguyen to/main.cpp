@@ -26,34 +26,3 @@ int main() {
 
     return 0;
 }
-
-
-// #include <iostream>
-// #include <vector>
-
-// using namespace std;
-
-// int main() {
-//     const long long n = 1000000000;
-//     int* arr = (int*)calloc(n + 1, sizeof(int));
-
-//     // Không cần thiết lập arr[0] và arr[1] vì calloc đã đặt tất cả giá trị về 0
-
-//     for (long long i = 2; i <= n; i++) {
-//         if (arr[i] == 0) {
-//             for (long long k = i * i; k <= n; k += i) {
-//                 arr[k] = 1;
-//             }
-//         }
-//     }
-
-//     cout << "Các số nguyên tố đến " << n << ": ";
-//     for (long long i = 2; i <= n; i++) {
-        
-//             cout << i << " ";
-//     }
-
-//     free(arr); // Giải phóng bộ nhớ khi không còn sử dụng
-
-//     return 0;
-// }

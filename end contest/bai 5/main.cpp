@@ -1,7 +1,6 @@
 /*
 tính tổng S1 = 1 + 2 + 3 + ... + 2 ^ N - 1 + 2 ^ N
           S2 = 1 + 2 + 3 + ... + 2 ^ N - 1
-
 output: in ra kết quả là phần dư của phép chia S1 và S2 cho 10 ^ 9 + 7
 */
 

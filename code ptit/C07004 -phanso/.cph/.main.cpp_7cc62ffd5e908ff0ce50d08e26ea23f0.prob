@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"e:\\code\\code ptit\\C07004 -phanso\\main.cpp","tests":[{"id":1710497103942,"input":"2\n2 3 4 5\n1 4 7 8","output":"Case #1:\n10/15 12/15\n22/15\n5/6\nCase #2:\n2/8 7/8\n9/8\n2/7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\code\\code ptit\\C07004 -phanso\\main.cpp","group":"local","local":true}

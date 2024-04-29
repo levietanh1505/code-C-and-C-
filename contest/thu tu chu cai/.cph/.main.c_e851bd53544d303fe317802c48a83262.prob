@@ -1,0 +1,1 @@
+{"name":"Local: main","url":"e:\\code\\contest\\thu tu chu cai\\main.c","tests":[{"id":1712202091689,"input":"2\n6\nA B C D G E\n6 \nA B C E G H","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\code\\contest\\thu tu chu cai\\main.c","group":"local","local":true}
